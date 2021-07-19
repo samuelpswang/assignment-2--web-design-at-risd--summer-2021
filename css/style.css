@@ -35,4 +35,8 @@ p {
     margin-bottom: 1vw;
 }
 
+.tracklist__length {
+    color: darkgrey;
+}
+
 }
