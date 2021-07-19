@@ -3,4 +3,26 @@ html {
     font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 
+body {
+    background-color: lightgray;
+    margin: 5vw;
+}
+
+header,
+div {
+    padding: 1.5vw;
+    margin: 1.5vw;
+    background-color: white;
+}
+
+h1,
+h2 {
+    margin: 0;
+    line-height: 1;
+}
+
+p {
+    margin: 0;
+}
+
 }
