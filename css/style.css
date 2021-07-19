@@ -23,6 +23,16 @@ h2 {
 
 p {
     margin: .7vw;
+    line-height: 1.4;
+}
+
+ol {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+    line-height: 1.4;
 }
 
 .header__artist-name {
