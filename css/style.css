@@ -25,4 +25,14 @@ p {
     margin: 0;
 }
 
+.header__artist-name {
+    color: grey;
+    font-size: large;
+}
+
+.header__artist-quote {
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
 }
