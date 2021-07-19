@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-    margin: 0;
+    margin: .7vw;
 }
 
 .header__artist-name {
@@ -41,6 +41,6 @@ p {
 
 .reviews__number {
     font-size: x-large;
-    margin-top: 1.5vw;
+    margin-top: 1.75vw;
     margin-bottom: 0.75vw;
 }
