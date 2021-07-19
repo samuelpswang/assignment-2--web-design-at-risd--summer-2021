@@ -39,4 +39,8 @@ p {
     color: darkgrey;
 }
 
+.reviews__number {
+    font-size: x-large;
+    margin-top: 1.5vw;
+    margin-bottom: 0.75vw;
 }
